@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://adib.com.mx/es/curriculum](https://adib.com.mx/es/curriculum)
 
-- :mexico: :coffee: :chess_pawn: :call_me_hand:
+- :mexico: :coffee: :chess_pawn: :call_me_hand: texto
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
