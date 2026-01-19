@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://adib.com.mx/es/curriculum](https://adib.com.mx/es/curriculum)
 
-- - From :mexico: 
+- From :mexico: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
